@@ -1,2 +1,4 @@
 .classpath
-bin/
+bin/*
+*.class
+.DS_Store
