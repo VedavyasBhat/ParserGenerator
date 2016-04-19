@@ -1,6 +1,5 @@
 # Parser Generator
-A Canonical LR parser generator.
-
+A Canonical LR parser generator.<br>
 Inputs:
 1. An alphabet set
 2. A formal grammar
