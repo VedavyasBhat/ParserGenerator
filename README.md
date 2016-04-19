@@ -1,4 +1,15 @@
-# ParserGenerator
-A project with a Swing GUI that accpets an alphabet and a formal grammar, and generates a Canonical LR parser for it.
-There are options to view the DFA (simple text), the first sets of each symbol and the parsing table. It also checks if a given string belongs to the grammar or not.
-A .project file is included so the project can be opened in Eclipse.
+# Parser Generator
+A Canonical LR parser generator.
+
+Inputs:
+1. An alphabet set
+2. A formal grammar
+
+Outputs:
+1. The DFA (in a simple text format)
+2. The first sets of each symbol
+3. The parsing table
+
+You can also input a string and check if it belongs to the given grammar.
+
+Compiling and running GUI.java will launch the Swing window.
